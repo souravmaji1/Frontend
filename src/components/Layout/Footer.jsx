@@ -39,7 +39,7 @@ const Footer = () => {
           <img
             src="../come.jpg"
             alt=""
-            style={{ filter: "brightness(0) invert(1)",width: "150px", height: "50px" }}
+            style={{ width: "150px", height: "67px" }}
           />
           <br />
           <p>The home and elements needeed to create beatiful products.</p>
