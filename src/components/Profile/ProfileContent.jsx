@@ -125,7 +125,7 @@ const ProfileContent = ({ active }) => {
                 </div>
               </div>
 
-              <div className="w-full 800px:flex block pb-3">
+         {/*     <div className="w-full 800px:flex block pb-3">
                 <div className=" w-[100%] 800px:w-[50%]">
                   <label className="block pb-2">Phone Number</label>
                   <input
@@ -153,9 +153,9 @@ const ProfileContent = ({ active }) => {
                 required
                 value="Update"
                 type="submit"
-              />
+      />*/}
             </form>
-          </div>
+      </div>
         </>
       )}
 
